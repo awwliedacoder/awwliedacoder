@@ -7,17 +7,10 @@
 
 <b>A true professional</b>
  </p>
-
-<table>
-  <tr>
-    <th>First Header</th>
   
 ```
-🌕 Software Engineer • Back-end • Low-level languages
+🌕 Software Engineer • Back-end • Low-level languages 
 
 🌑 Anime • Games • Coding • Yandere
 
 ```
-<p align = "center">
-  <a href="https://www.youtube.com/@awwlie/">
-    <img aling="center" src="https://media1.tenor.com/m/bPRufg572WAAAAAC/yuno-gasi-twirling-hair.gif"></a> 
