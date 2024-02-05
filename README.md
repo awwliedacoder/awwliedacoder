@@ -8,6 +8,5 @@
 
 ```
 
-<p aling="center">
-  <a href = "https://github.com/awwliedacoder/awwliedacoder/blob/main/9605-pepe-business.png?raw=true">
+<img aling="center" src="https://github.com/awwliedacoder/awwliedacoder/blob/main/9605-pepe-business.png?raw=true">
   
