@@ -9,5 +9,5 @@
 ```
 
 <p aling="center">
-  <a href = "https://github.com/awwliedacoder/awwliedacoder/raw/main/9605-pepe-business.webp">
+  <a href = "https://github.com/awwliedacoder/awwliedacoder/blob/main/9605-pepe-business.png?raw=true">
   
