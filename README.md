@@ -5,10 +5,10 @@
 
 <div align="center">
   
-  ``` 
+  ``
   🌕 Software Engineer - Low-level languages 🌕
   🌑 Anime - Music - Games 🌑
-  ```
+  ``
 
 <img aling="center" src ="https://media1.tenor.com/m/TayovEvaMFcAAAAC/peppo.gif" width="75" height="75">
 </div>
