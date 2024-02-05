@@ -15,6 +15,6 @@
 <p aling = "left" >
  <a href =”https://www.youtube.com/channel/UCcwn0dVLVHHNwl8Un-QAnTA”>
  
- ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+ ![YouTube](https://www.youtube.com/channel/UCcwn0dVLVHHNwl8Un-QAnTA)
  
  </p>
