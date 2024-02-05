@@ -7,7 +7,8 @@
 
 <b>A true professional</b>
  </p>
-  
+
+-|-
   
 ```
 🌕 Software Engineer • Back-end • Low-level languages
