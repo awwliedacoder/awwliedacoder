@@ -9,5 +9,7 @@
   🌕 Software Engineer - Low-level languages 🌕
   🌑 Anime - Music - Games 🌑
   ```
+
+<div class="tenor-gif-embed" data-postid="19881925" data-share-method="host" data-aspect-ratio="1.09966" data-width="100%"><a href="https://tenor.com/view/monka-steer-pepe-pepe-the-frog-gif-19881925">Monka Steer Pepe GIF</a>from <a href="https://tenor.com/search/monka+steer-gifs">Monka Steer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
