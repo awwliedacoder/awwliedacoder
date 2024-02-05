@@ -12,7 +12,7 @@
 ```
 🌕 Software Engineer • Back-end • Low-level languages
 
-🌑 Anime • Games • Coding • Art
+🌑 Anime • Games • Coding • Yandere
 
 ```
 <p aling = "right">
