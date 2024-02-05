@@ -15,6 +15,6 @@
 🌑 Anime • Games • Coding • Yandere
 
 ```
-<p aling = "right">
+<p align = "center">
   <a href="https://www.youtube.com/@awwlie/">
     <img aling="center" src="https://media1.tenor.com/m/bPRufg572WAAAAAC/yuno-gasi-twirling-hair.gif"></a> 
