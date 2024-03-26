@@ -6,7 +6,7 @@
 <div align="center">
   
   ``````
-  🌕 Software Engineer - Low-level languages 🌕
+  🌕 Software Engineer - Scripting languages - Pbject-oriented programming 🌕
   🌑 Anime - Music - Games 🌑
   ``````
 
