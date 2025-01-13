@@ -6,8 +6,8 @@
 <div align="center">
   
   ``````
-  🌕 Software Engineer - Scripting Languages - Object-oriented Programming 🌕
-  🌑 Anime - Music - Games 🌑
+  🌕  🌕
+  🌑  🌑
   ``````
 
 </div>
